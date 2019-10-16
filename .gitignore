@@ -1,0 +1,7 @@
+data/
+*.pyc
+/bazel-*
+/compile_commands.json
+aos_log-*
+*.swp
+*.swo
